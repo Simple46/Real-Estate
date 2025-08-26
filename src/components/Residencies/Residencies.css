@@ -61,3 +61,12 @@
 .r-buttons button:hover{
     background-color: rgb(231, 230, 245);
 }
+
+@media (max-width:640px) {
+    .r-head{
+        align-items: center;
+    }
+    .r-buttons{
+        position: initial;
+    }
+}

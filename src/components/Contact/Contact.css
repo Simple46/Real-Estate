@@ -9,6 +9,7 @@
 .img-container img{
     width: 100%;
     height: 100%;
+    object-fit:fill;
 
 }
 
@@ -63,4 +64,31 @@
     background: var(--blue-gradient);
     color: white;
     scale: 0.8;
+}
+
+@media (max-width:1024px){
+    .c-container{
+        flex-direction: column;
+    }
+    .c-right{
+        justify-content: center;
+    }
+    .contactMode{
+        width: 100%;
+    }
+    .row{
+        flex-direction: column;
+        width: 100%;
+    }
+    .mode{
+        width: 100%;
+    }
+  
+}
+
+@media (max-width:640px) {
+    .img-container{
+        width: 20rem;
+        height: 25rem;
+    }
 }

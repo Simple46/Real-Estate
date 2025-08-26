@@ -1,5 +1,6 @@
 .f-container{
     justify-content: space-around;
+    margin-bottom: 2rem;
 }
 .f-left{
     gap: 1rem;
@@ -8,4 +9,21 @@
     gap: 1.5rem;
     margin-top: 1.5rem;
     font-weight: 500;
+    color: rgb(91, 89, 97);
+  
+}
+
+.f-menu>*:hover{
+  cursor: pointer;
+  color: var(--black);
+}
+
+@media (max-width:768px){
+    .f-container{
+        justify-content: center;
+    }
+    .f-container>div{
+        align-items: center !important;
+        text-align: center;
+    }
 }
