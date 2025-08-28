@@ -10,7 +10,6 @@ const Hero = () => {
         <div className="paddings innerWidth flexCenter hero-container ">
           <div className="flexColStart hero-left">
             <div className="hero-title">
-              <div className="orange-circle"></div>
               <motion.h1
                 initial={{ y: '2rem', opacity: 0 }}
                 animate={{ y: 0, opacity: 1 }}
@@ -18,17 +17,17 @@ const Hero = () => {
                   duration: 2,
                   type:'spring'
               }}>
-                Discover
-                <br /> Most Suitable
-                <br /> Property
+                Unlock Your
+                <br />Ideal Home 
+                <br />Today
               </motion.h1>
             </div>
             <div className="flexColStart hero-des">
               <span className="secondaryText">
-                Find a variety of Property that suits u very easily
+                Find a variety of Property that suits you very easily
               </span>
               <span className="secondaryText">
-                Forgrt all the difficulties in finding a residence for you
+                Forget all the difficulties in finding a residence for you
               </span>
             </div>
             <div className="flexCenter search-bar">
@@ -39,14 +38,14 @@ const Hero = () => {
             <div className="flexCenter stats">
               <div className="flexColCenter stat">
                 <span>
-                  <CountUp start={8800} end={9000} duration={4} />
+                  <CountUp start={8800} end={10000} duration={5} />
                   <span>+</span>
                 </span>
                 <span className="secondaryText"> Premium Products</span>
               </div>
               <div className="flexColCenter stat">
                 <span>
-                  <CountUp start={1950} end={2000} duration={4} />
+                  <CountUp start={1750} end={2000} duration={5} />
                   <span>+</span>
                 </span>
                 <span className="secondaryText"> Happy Customers</span>
@@ -71,7 +70,7 @@ const Hero = () => {
               }}
             
               className="image-container">
-              <img src="./hero-image.png" />
+              <img src="./hero-image.jpg" />
             </motion.div>
           </div>
         </div>

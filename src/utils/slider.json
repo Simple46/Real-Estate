@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
+    "name": "Ilubirin Estate, Ikoyi",
     "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "detail": "Luxery foreshore community at the foot of third Mainland Bridge, blending Home and lifestyle ",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Gwarimpa Estate, Abuja",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "West Africa Largest estate, renowned for mordern housing and excellent road networks. ",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "1004 Housing Estate",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "Iconic High-rise apartments spread across 11 hectares, offering vibrant city living ",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
+    "name": "Bourdillon, Ikoyi",
     "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "detail": "Prestigious 25-floor twin towers with penthouses, pools and lush greeny",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Lekki Gardens Estate",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "Affordable Luxery Homes in a serene gated community perfect for families and investors",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "Crown Estate, Sangotedo",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "Well planned residential estate with modern amenities and security for comfortable living",
     "image": "./r3.png"
   }
 ]

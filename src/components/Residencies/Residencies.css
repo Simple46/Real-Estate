@@ -54,7 +54,9 @@
     border: none;
     padding: 0.2rem 0.8rem;
     font-size: 1.2rem;
+    border-radius: 5px;
     background-color: white;
+    box-shadow: inset 0 4px 6px rgba(136,160,255,0.81);
     cursor: pointer;
     transition: all 300ms ease-in;
 }
